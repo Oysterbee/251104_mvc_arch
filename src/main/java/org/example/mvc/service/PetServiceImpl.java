@@ -1,7 +1,6 @@
 package org.example.mvc.service;
 
 import org.example.mvc.model.entity.Pet;
-import org.example.mvc.model.repository.InMemoryPetRepository;
 import org.example.mvc.model.repository.PetRepository;
 import org.example.mvc.model.repository.SupabasePetRepository;
 
